@@ -1,4 +1,4 @@
----
+--- 
 - name: Pull docker image of Calculator
   hosts: all
   tasks:
